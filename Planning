@@ -2,8 +2,23 @@ Define the project scope: Develop an AI virtual assistant capable of providing u
 
 objectives: Create a web based user interface, implement javascript for user interaction, implement NLP(natural language processor), host on cloud infrastructure, optimize and continue
 
-requirements
-
+requirements: 
+      User Interface Requirements:
+            Web-Based interface: The ai must have a user friendly web based interface built using HTML and CSS styling
+            Responsive Design: Ensure that the user interface is responsive and adapts to various screen sizes and devices.
+            Navigation: Easy to use interface
+      Functional Requirements:
+            Natural Language Understanding: The ai must be able to understand and interpret user input accurately.
+            Contextual Awareness: Implement contextual awareness to maintain conversation context for past chats.
+      Techinal Requirements:
+            JavaScript Implementation: Implement JavaScript to handel user interactions, including capturing input and displaying responses.
+            Natural Language Processing Framework: Utilize an NPL framework or apu for language understanding and Generation.
+            Local Hosting: Deploy Ai assistance onto a local server.
+      Peformance Requirements: 
+            Response Time: Ensure the ai assistant responds promptly to user queries.
+      Documentation Requirements:
+            Techinal Documentation: For future development create comprehensive technical documentation to assist in future deveopment.
+            Reporting Mechanisms: Establish report mechanisms to monitor health, user engagement and performance.
 Identify potential use cases
 
-user personas
+User Personas

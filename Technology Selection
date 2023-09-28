@@ -1,13 +1,23 @@
-HTML and CSS: HTML and CSS form the foundation of our AI assistant's user interface. HTML (HyperText et al.) structures the content, while CSS (Cascading Style Sheets) ensures an aesthetically pleasing and responsive design. Combining these technologies creates an intuitive and visually appealing web-based interface for users to interact.
+HTML and CSS: HTML and CSS form the foundation of our AI assistant's user interface.
+HTML (HyperText et al.) structures the content, while CSS (Cascading Style Sheets) ensures an aesthetically pleasing and responsive design.
+Combining these technologies creates an intuitive and visually appealing web-based interface for users to interact.
 
 
-JavaScript: JavaScript is the engine driving the interactivity of our AI assistant. It captures user input, manages user interactions, and dynamically updates the interface. JavaScript also plays a pivotal role in integrating the Langchain and OpenAI APIs, facilitating smooth communication between the AI model and the user interface.
+JavaScript: JavaScript is the engine driving the interactivity of our AI assistant.
+It captures user input, manages user interactions, and dynamically updates the interface.
+JavaScript also plays a pivotal role in integrating the Langchain and OpenAI APIs, facilitating smooth communication between the AI model and the user interface.
 
 
-Langchain API: The Langchain API empowers our AI assistant with robust natural language understanding and processing capabilities. It enables the AI to comprehend user queries, maintain context across conversations, and generate contextually relevant responses. This API forms the core of our language interaction capabilities, ensuring users can engage in meaningful, context-aware conversations.
+Langchain API: The Langchain API empowers our AI assistant with robust natural language understanding and processing capabilities.
+It enables the AI to comprehend user queries, maintain context across conversations, and generate contextually relevant responses.
+This API forms the core of our language interaction capabilities, ensuring users can engage in meaningful, context-aware conversations.
 
 
-OpenAI API: The OpenAI API provides our virtual assistant with the knowledge and intelligence to respond to diverse queries. It supplements the AI's responses with accurate and up-to-date information, creating a rich knowledge base that enhances the assistant's overall utility. This integration ensures that users receive reliable and informative answers to their questions.
+OpenAI API: The OpenAI API provides our virtual assistant with the knowledge and intelligence to respond to diverse queries.
+It supplements the AI's responses with accurate and up-to-date information, creating a rich knowledge base that enhances the assistant's overall utility.
+This integration ensures that users receive reliable and informative answers to their questions.
 
 
-Local Server Hosting: To ensure scalability, reliability, and data privacy, we host our AI assistant on a local server. Local server hosting grants us greater control over the infrastructure, enabling us to optimize performance and security. It also allows us to manage updates and seamlessly maintain the assistant's functionality.
+Local Server Hosting: To ensure scalability, reliability, and data privacy, we host our AI assistant on a local server.
+Local server hosting grants us greater control over the infrastructure, enabling us to optimize performance and security.
+It also allows us to manage updates and seamlessly maintain the assistant's functionality.

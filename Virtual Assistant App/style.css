@@ -16,3 +16,61 @@ body {
     width: 400px;
     padding: 20px;
 }
+
+.chat {
+    max-height: 300px;
+    overflow-y: auto;
+}
+
+.chat-message {
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    max-width: 70%
+}
+
+.user {
+    background-color: #e0e0e0;
+    align-self: flex-start;
+}
+
+.assistant {
+    background-color: #077bff;
+    color: #fff;
+    align-self: flex-end;
+}
+
+
+.user-input {
+    display: flex;
+    margin-top: 20px;
+}
+
+input[type="text"] {
+    flex: 1;
+    padding: 10px;
+    border: none;
+    border-radius: 5px 0 0 5px;
+    outline: none;
+}
+
+button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 0 5px 5px 0;
+    padding: 10px 15px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3
+}
+
+
+
+
+
+
+
+

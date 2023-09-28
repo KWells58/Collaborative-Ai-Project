@@ -1,6 +1,6 @@
 Define the project scope: Develop an AI virtual assistant capable of providing users with information, answering questions, and performing tasks through text-based interactions.
 
-objectives
+objectives: Create a web based user interface, implement javascript for user interaction, implement NLP(natural language processor), host on cloud infrastructure, optimize and continue
 
 requirements
 

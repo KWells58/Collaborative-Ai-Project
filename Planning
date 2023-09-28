@@ -19,6 +19,13 @@ requirements:
       Documentation Requirements:
             Techinal Documentation: For future development create comprehensive technical documentation to assist in future deveopment.
             Reporting Mechanisms: Establish report mechanisms to monitor health, user engagement and performance.
-Identify potential use cases
-
-User Personas
+Identify potential use cases and User Personas
+            Information Retrieval
+                  Studens and Teachers
+                  Users can ask the ai assistant for information on a wide range of topics 
+            Task Automation
+                  Busy professionals
+                  Users can use the ai assistant for help writing emails and scheduling their day
+           Health Information
+                  Health-conscious individuals
+                  Users can inquire about health-related information.

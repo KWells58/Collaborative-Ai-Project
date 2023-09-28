@@ -1,15 +1,21 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <meta charset="TUF-8">
     <meta name="viewpoint" content="width-device-width, initial-salce=1.0">
     <title>Virtual Assistance App</title>
     <link rel="stylesheet" href="style.css">
 </head>
+    
 <body>
-    <div class="card">
-        <div class="search">
-            <input type="text" placeholder="text" spellcheck="false">
-            <button></button>
+    <div class="chat-container">
+        <div class="chat">
+        <div class="chat-message user">Hello, AI!</div?>
+        <div class="chat-message assistant">Hi there! How can I help you today?</div>
+            <!-- add more chat messsages here when we code it -->
+        </div>
+            <input type="text" id="user-message" placeholder="Type your message...">
+            <button onclick="sendMessage()">Send</button>
         </div>
     </div>
 

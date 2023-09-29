@@ -30,6 +30,9 @@ const darkModeToggle = document.getElementById('dark-mode-toggle');
             //clear the input field
             userMessageInput.value = '';
 
+            //scroll to the latest message
+            chatContainer.scrollTop = chatContainer.scrollHeight;
+
             //ai responses
         }
     }

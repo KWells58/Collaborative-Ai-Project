@@ -45,7 +45,7 @@ body {
     margin-top: 20px;
 }
 
-input[type="text"] {
+.user-input input[type="text"] {
     flex: 1;
     padding: 10px;
     border: 1px solid #ccc;
@@ -53,7 +53,7 @@ input[type="text"] {
     outline: none;
 }
 
-button {
+.user-input button {
     background-color: #007bff;
     color: #fff;
     border: none;
@@ -62,7 +62,7 @@ button {
     cursor: pointer;
 }
 
-button:hover {
+.user-input button:hover {
     background-color: #0056b3;
 }
 

@@ -1,24 +1,25 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="TUF-8">
-    <meta name="viewpoint" content="width-device-width, initial-salce=1.0">
-    <title>Virtual Assistance App</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
+    <title>AI Chat</title>
 </head>
-    
 <body>
-    <div class="chat-container">
-        <div class="chat">
-        <div class="chat-message user">Hello, AI!</div?>
-        <div class="chat-message assistant">Hi there! How can I help you today?</div>
-            <!-- add more chat messsages here when we code it -->
-        </div>
-            <input type="text" id="user-message" placeholder="Type your message...">
-            <button onclick="sendMessage()">Send</button>
-        </div>
+<button id="dark-mode-toggle" onclick="toggleDarkMode()">Dark Mode</button>
+<div class="chat-container">
+    <div class="chat">
+        <div class="chat-message user">Hello, AI!</div>
+        <div class="chat-message assistant">Hi there! How can I assist you today?</div>
+        <!-- Add more chat messages here -->
     </div>
+    <div class="user-input">
+        <input type="text" id="user-message" placeholder="Type your message...">
+        <button onclick="sendMessage()">Send</button>
+    </div>
+</div>
 
 <script src="script.js"></script>
-
 </body>
+</html>

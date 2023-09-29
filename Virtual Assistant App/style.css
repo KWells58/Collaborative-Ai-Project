@@ -82,9 +82,12 @@ button:hover {
 
 body.dark-mode {
     background-color: #222;
-    color: #fff;
+    color: #222;
 }
 
+body.dark-mode .chat-container {
+    background-color: #666;
+}
 
 
 

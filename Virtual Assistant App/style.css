@@ -1,3 +1,4 @@
+
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
@@ -26,20 +27,19 @@ body {
     margin: 10px;
     padding: 10px;
     border-radius: 5px;
-    max-width: 70%
+    max-width: 70%;
 }
 
 .user {
-    background-color: #e0e0e0;
+    background-color: #007bff ;
+    color: #fff;
     align-self: flex-start;
 }
 
 .assistant {
-    background-color: #077bff;
-    color: #fff;
+    background-color: #e0e0e0;
     align-self: flex-end;
 }
-
 
 .user-input {
     display: flex;
@@ -64,7 +64,25 @@ button {
 }
 
 button:hover {
-    background-color: #0056b3
+    background-color: #0056b3;
+}
+
+#dark-mode-toggle {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+    z-index: 2;
+}
+
+body.dark-mode {
+    background-color: #222;
+    color: #fff;
 }
 
 
